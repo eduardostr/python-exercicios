@@ -2,9 +2,3 @@
 
 entrada = input("Digite seu nome: \n")
 print("Olá, {}! Prazer em conhecer você!".format(entrada))
-
-# Crie um programa que escreva "Olá, mundo" na tela.
-
-print("Olá, mundo!")
-msg = "Hello, world!"
-print(msg)
